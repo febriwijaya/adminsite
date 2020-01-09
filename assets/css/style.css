@@ -1,0 +1,14 @@
+.merah {
+	color: red;
+}
+
+@media (max-width: 575.98px) {
+	.kecil {
+		font-size: 10px;
+	}
+}
+
+.gambar {
+	width: 30px;
+	height: 30px;
+}
